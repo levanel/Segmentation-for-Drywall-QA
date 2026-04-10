@@ -1,3 +1,5 @@
+if it means anything then please check this out:->https://github.com/levanel/origin-test(the accidental Embeddedsys assignment)
+
 # Prompted Segmentation for Drywall QA
 
 **Goal:** Develop a fast text conditioned segmentation model that detects drywall cracks and taping areas.
